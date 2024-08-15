@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack develeopement,Devops,Deep Learning,Computer Vision,LLM and AI
 - 🌱 I’m currently working on Deep Learning .
 - 💞️ I’m looking to collaborate on articles on LLM and AI
-- 📫 How to reach me ayithonreva@gmail.com
+- 📫 How to reach me revanthayithawork@gmail.com
 - ⚡ Fun fact: I can speak in more than 4 languages
 
 -🛠️ Skills
