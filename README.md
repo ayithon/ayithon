@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [under work](under work)
 
-- 📝 I regularly write articles on [medium](medium)
-
 - 💬 Ask me about **Web Development and AI**
 
 - 📄 Know about my experiences [still making it](still making it)
